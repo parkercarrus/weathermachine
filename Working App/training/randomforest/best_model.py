@@ -40,7 +40,6 @@ accuracy = accuracy_score(y_test, predictions)
 correct_predictions = accuracy * len(y_test)  # Total correct predictions
 total_predictions = len(y_test)  # Total predictions made
 
-# Assuming the majority class proportion (proportion of the most common class in y_test)
 majority_class_proportion = max(y_test.value_counts()) / len(y_test)
 
 # Calculate the p-value
