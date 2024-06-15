@@ -2,3 +2,5 @@ This project uses machine learning to forecast weather conditions. The main scri
 
 Random Forest model for precipitaiton prediction: models/rf1_temp.pkl  
 Neural Network model for feature regression: models/temp2.keras  
+
+https://docs.google.com/document/d/1r9r4vSkOiNcDQs2R-fAtyW9v-45S2dKTitgwkKakixM/edit?usp=sharing
